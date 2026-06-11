@@ -18,7 +18,7 @@ A Python-based command-line toolkit for IT network diagnostics.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/network-troubleshooting-toolkit.git
+git clone https://github.com/FaizHacke/network-troubleshooting-toolkit.git
 
 # 2. Create virtual environment
 python -m venv venv
